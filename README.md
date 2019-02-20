@@ -12,7 +12,7 @@ A web-based annotation tool for natural language processing (NLP) needs, inspire
 
 ## Demo
 
-See [https://BingShanLin.github.io/poplar/](https://synyi.github.io/poplar/)
+See [https://BingShanLin.github.io/poplar/](https://BingShanLin.github.io/poplar/)
 
 ## Quick start
 
