@@ -1,6 +1,6 @@
 # Poplar
 
-[![license](https://img.shields.io/github/license/synyi/poplar.svg)](https://github.com/synyi/poplar/blob/master/LICENSE)
+[![license](https://img.shields.io/github/license/synyi/poplar.svg)](https://github.com/BingShanLin/poplar/blob/master/LICENSE)
 [![version](https://img.shields.io/npm/v/poplar-annotation.svg)](https://www.npmjs.com/package/poplar-annotation)
 
 
